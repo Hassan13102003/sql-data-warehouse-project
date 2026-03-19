@@ -63,8 +63,8 @@ maintenance VARCHAR(50)
 
 ----------------------------------------------------------------------------------------
 
-Importing CSV data into 
-*Microsoft Server*
+--Importing CSV data into 
+--*Microsoft Server*
 BULK INSERT tableName
 FROM location_on_local_machine
 WITH(
