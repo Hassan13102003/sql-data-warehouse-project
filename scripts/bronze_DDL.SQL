@@ -61,6 +61,22 @@ subcat VARCHAR(50),
 maintenance VARCHAR(50)
 );
 
+----------------------------------------------------------------------------------------
+
+Importing CSV data into 
+*Microsoft Server*
+BULK INSERT tableName
+FROM location_on_local_machine
+WITH(
+	DATAFILETYPE = 'csv',
+    FIELDTERMINATOR = ',',
+    FIRSTROW = 2
+);
+
+*Postgresql GUI*
+Import directly selecting the tableName
+
+
 
 
 
