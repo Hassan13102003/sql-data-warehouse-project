@@ -9,7 +9,7 @@ Welcome to the **SQL** repository! 🚀
 
 Everything is for Free!
 - **[Datasets](datasets/):** Access to the dataset (csv files).
-- **[SQL Server] Duckdb Lightweight server for hosting your SQL database.
+- **[SQL Server] PostgreSQL Lightweight server for hosting your SQL database.
 
 ---
 
